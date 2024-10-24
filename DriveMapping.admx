@@ -1,9 +1,9 @@
-<policyDefinitions revision="1.0" schemaVersion="1.0">
+<policyDefinitions revision="1.1" schemaVersion="1.0">
   <policyNamespaces>
     <target prefix="DriveMapping" namespace="DriveMapping.Policies.DriveMapping" />
     <using prefix="windows" namespace="Microsoft.Policies.Windows" />
   </policyNamespaces>
-  <resources minRequiredRevision="1.0" />
+  <resources minRequiredRevision="1.1" />
   <categories>
     <category name="DriveMapping" displayName="$(string.DriveMapping)" />
   </categories>
