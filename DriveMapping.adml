@@ -12,6 +12,18 @@
 If you enable this policy setting, or if you do not configure this policy setting, a notification will be displayed to the user when a mapped drive fails to re-connect.
 
 If you disable this policy setting, the notification will not be displayed.</string>
+      <string id="Drive_A">Drive A</string>
+      <string id="Drive_A_Help">Maps drive A: to a network share (UNC path).
+
+To use this policy setting, click enabled, and then enter a remote UNC path.  For example \\FileServer\Shared.
+
+To delete the mapped drive disable the policy.</string>
+      <string id="Drive_B">Drive B</string>
+      <string id="Drive_B_Help">Maps drive B: to a network share (UNC path).
+
+To use this policy setting, click enabled, and then enter a remote UNC path.  For example \\FileServer\Shared.
+
+To delete the mapped drive disable the policy.</string>
       <string id="Drive_D">Drive D</string>
       <string id="Drive_D_Help">Maps drive D: to a network share (UNC path).
 
@@ -152,6 +164,18 @@ To use this policy setting, click enabled, and then enter a remote UNC path.  Fo
 To delete the mapped drive disable the policy.</string>
     </stringTable>
     <presentationTable>
+      <presentation id="Drive_A">
+        <textBox refId="Drive_A_RemotePath">
+          <label>Drive D Remote Path:</label>
+        </textBox>
+        <checkBox refId="Drive_A_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+      </presentation>
+      <presentation id="Drive_B">
+        <textBox refId="Drive_B_RemotePath">
+          <label>Drive D Remote Path:</label>
+        </textBox>
+        <checkBox refId="Drive_B_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+      </presentation>
       <presentation id="Drive_D">
         <textBox refId="Drive_D_RemotePath">
           <label>Drive D Remote Path:</label>

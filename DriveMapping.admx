@@ -18,6 +18,160 @@
         <decimal value="0" />
       </disabledValue>
     </policy>
+    <policy name="Drive_A" class="User" displayName="$(string.Drive_A)" explainText="$(string.Drive_A_Help)" presentation="$(presentation.Drive_A)" key="Network\A">
+      <parentCategory ref="DriveMapping" />
+      <supportedOn ref="windows:SUPPORTED_Windows7" />
+      <enabledList>
+        <item key="Network\A" valueName="UserName">
+          <value>
+            <string>
+            </string>
+          </value>
+        </item>
+        <item key="Network\A" valueName="ProviderName">
+          <value>
+            <string>Microsoft Windows Network</string>
+          </value>
+        </item>
+        <item key="Network\A" valueName="ProviderType">
+          <value>
+            <decimal value="131072" />
+          </value>
+        </item>
+        <item key="Network\A" valueName="ConnectionType">
+          <value>
+            <decimal value="1" />
+          </value>
+        </item>
+        <item key="Network\A" valueName="DeferFlags">
+          <value>
+            <decimal value="4" />
+          </value>
+        </item>
+      </enabledList>
+      <disabledList>
+        <item key="Network\A" valueName="RemotePath">
+          <value>
+            <string>
+            </string>
+          </value>
+        </item>
+        <item key="Network\A" valueName="ProviderFlags">
+          <value>
+            <decimal value="0" />
+          </value>
+        </item>
+        <item key="Network\A" valueName="ProviderName">
+          <value>
+            <string>
+            </string>
+          </value>
+        </item>
+        <item key="Network\A" valueName="ProviderType">
+          <value>
+            <decimal value="0" />
+          </value>
+        </item>
+        <item key="Network\A" valueName="ConnectionType">
+          <value>
+            <decimal value="0" />
+          </value>
+        </item>
+        <item key="Network\A" valueName="DeferFlags">
+          <value>
+            <decimal value="0" />
+          </value>
+        </item>
+      </disabledList>
+      <elements>
+        <text id="Drive_A_RemotePath" valueName="RemotePath" expandable="true" />
+        <boolean id="Drive_A_RemotePath_IsDFS" valueName="ProviderFlags">
+          <trueValue>
+            <decimal value="1" />
+          </trueValue>
+          <falseValue>
+            <decimal value="0" />
+          </falseValue>
+        </boolean>
+      </elements>
+    </policy>
+    <policy name="Drive_B" class="User" displayName="$(string.Drive_B)" explainText="$(string.Drive_B_Help)" presentation="$(presentation.Drive_B)" key="Network\B">
+      <parentCategory ref="DriveMapping" />
+      <supportedOn ref="windows:SUPPORTED_Windows7" />
+      <enabledList>
+        <item key="Network\B" valueName="UserName">
+          <value>
+            <string>
+            </string>
+          </value>
+        </item>
+        <item key="Network\B" valueName="ProviderName">
+          <value>
+            <string>Microsoft Windows Network</string>
+          </value>
+        </item>
+        <item key="Network\B" valueName="ProviderType">
+          <value>
+            <decimal value="131072" />
+          </value>
+        </item>
+        <item key="Network\B" valueName="ConnectionType">
+          <value>
+            <decimal value="1" />
+          </value>
+        </item>
+        <item key="Network\B" valueName="DeferFlags">
+          <value>
+            <decimal value="4" />
+          </value>
+        </item>
+      </enabledList>
+      <disabledList>
+        <item key="Network\B" valueName="RemotePath">
+          <value>
+            <string>
+            </string>
+          </value>
+        </item>
+        <item key="Network\B" valueName="ProviderFlags">
+          <value>
+            <decimal value="0" />
+          </value>
+        </item>
+        <item key="Network\B" valueName="ProviderName">
+          <value>
+            <string>
+            </string>
+          </value>
+        </item>
+        <item key="Network\B" valueName="ProviderType">
+          <value>
+            <decimal value="0" />
+          </value>
+        </item>
+        <item key="Network\B" valueName="ConnectionType">
+          <value>
+            <decimal value="0" />
+          </value>
+        </item>
+        <item key="Network\B" valueName="DeferFlags">
+          <value>
+            <decimal value="0" />
+          </value>
+        </item>
+      </disabledList>
+      <elements>
+        <text id="Drive_B_RemotePath" valueName="RemotePath" expandable="true" />
+        <boolean id="Drive_B_RemotePath_IsDFS" valueName="ProviderFlags">
+          <trueValue>
+            <decimal value="1" />
+          </trueValue>
+          <falseValue>
+            <decimal value="0" />
+          </falseValue>
+        </boolean>
+      </elements>
+    </policy>
     <policy name="Drive_D" class="User" displayName="$(string.Drive_D)" explainText="$(string.Drive_D_Help)" presentation="$(presentation.Drive_D)" key="Network\D">
       <parentCategory ref="DriveMapping" />
       <supportedOn ref="windows:SUPPORTED_Windows7" />
