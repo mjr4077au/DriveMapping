@@ -150,145 +150,145 @@ To delete the mapped drive disable the policy.</string>
 To use this policy setting, click enabled, and then enter a remote UNC path.  For example \\FileServer\Shared.
 
 To delete the mapped drive disable the policy.</string>
-      </stringTable>
-     <presentationTable>
+    </stringTable>
+    <presentationTable>
       <presentation id="Drive_D">
         <textBox refId="Drive_D_RemotePath">
           <label>Drive D Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_D_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_D_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_E">
         <textBox refId="Drive_E_RemotePath">
           <label>Drive E Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_E_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_E_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_F">
         <textBox refId="Drive_F_RemotePath">
           <label>Drive F Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_F_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_F_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_G">
         <textBox refId="Drive_G_RemotePath">
           <label>Drive G Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_G_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_G_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_H">
         <textBox refId="Drive_H_RemotePath">
           <label>Drive H Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_H_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_H_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_I">
         <textBox refId="Drive_I_RemotePath">
           <label>Drive I Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_I_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_I_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_J">
         <textBox refId="Drive_J_RemotePath">
           <label>Drive J Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_J_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_J_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_K">
         <textBox refId="Drive_K_RemotePath">
           <label>Drive K Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_K_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_K_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
-       <presentation id="Drive_L">
+      <presentation id="Drive_L">
         <textBox refId="Drive_L_RemotePath">
           <label>Drive L Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_L_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_L_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_M">
         <textBox refId="Drive_M_RemotePath">
           <label>Drive M Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_M_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_M_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_N">
         <textBox refId="Drive_N_RemotePath">
           <label>Drive N Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_N_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_N_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_O">
         <textBox refId="Drive_O_RemotePath">
           <label>Drive O Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_O_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_O_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_P">
         <textBox refId="Drive_P_RemotePath">
           <label>Drive P Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_P_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_P_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_Q">
         <textBox refId="Drive_Q_RemotePath">
           <label>Drive Q Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_Q_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_Q_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_R">
         <textBox refId="Drive_R_RemotePath">
           <label>Drive R Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_R_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_R_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_S">
         <textBox refId="Drive_S_RemotePath">
           <label>Drive S Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_S_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_S_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_T">
         <textBox refId="Drive_T_RemotePath">
           <label>Drive T Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_T_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_T_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_U">
         <textBox refId="Drive_U_RemotePath">
           <label>Drive U Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_U_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_U_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_V">
         <textBox refId="Drive_V_RemotePath">
           <label>Drive V Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_V_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_V_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_W">
         <textBox refId="Drive_W_RemotePath">
           <label>Drive W Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_W_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_W_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_X">
         <textBox refId="Drive_X_RemotePath">
           <label>Drive X Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_X_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_X_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_Y">
         <textBox refId="Drive_Y_RemotePath">
           <label>Drive Y Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_Y_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_Y_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
       <presentation id="Drive_Z">
         <textBox refId="Drive_Z_RemotePath">
           <label>Drive Z Remote Path:</label>
         </textBox>
-	<checkBox refId="Drive_Z_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
+        <checkBox refId="Drive_Z_RemotePath_IsDFS" defaultChecked="false">Remote path refers to DFS root</checkBox>
       </presentation>
     </presentationTable>
   </resources>
