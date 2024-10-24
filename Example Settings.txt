@@ -1,0 +1,19 @@
+ADMX Ingestion Profile OMA URI Configuration
+
+Name:		DriveMapping.admx
+Description	ADMX template for Network Drive Mappings
+OMA-URI		./Device/Vendor/MSFT/Policy/ConfigOperations/ADMXInstall/DriveMapping/Policy/DriveMappingAdmx
+Data Type	String
+Value		{copy and paste the XML from DriveMapping.admx}
+
+
+Drive Mapping Configuration Profile - OMA URI Configuration {please edit the drive letter Q as required}
+
+Name		Drive Q
+Description	Maps Q Drive to a network share
+OMA-URI		./user/Vendor/MSFT/Policy/Config/DriveMapping~Policy~DriveMapping/Drive_Q
+Data Type	String
+Value		<enabled/>
+		<data id="Drive_Q_RemotePath" value="\\MyFileServer\MyFileShare"/>
+		<data id="Drive_Q_RemotePath_IsDFS" value="False"/>
+		
